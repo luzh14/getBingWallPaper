@@ -83,7 +83,7 @@ def picurl(path=path):
             continue
         else:
             break
-
+    #regular expression
     rePicList = 'g_img={url: "(.*?)"'
 
     picList = re.findall(rePicList, html, re.S)
