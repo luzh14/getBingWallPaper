@@ -91,4 +91,4 @@ def picurl(path=path):
     pic_list(picList, path)
 
 #if you want to download wallpaper directly, you can use following function and run this script.
-#picurl('input path here')
+#picurl('input the path where yout want to save the wallpaper here')
